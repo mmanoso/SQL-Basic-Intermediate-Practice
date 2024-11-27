@@ -5,4 +5,4 @@ This practice include the basics of queries, like SELECT, ORDER BY, WHERE, GROUP
 In the repository you can find examples of questions about the Northwind database, solved with SQL queries.
 Next you can see an image of the database schema:
 
-![alt text](Database\Northwind-major8.png?raw=true)
+![alt text](Northwind-major8.png)
