@@ -16,6 +16,7 @@ The questions to answer with the queries and the results are the following:
 ### Exercise 2: Identify the products that have never been ordered
 
 ![alt text](Results/exercise2-NW-result.png)
+
 Like can be seen in the image, there is no product that have never been ordered, what is the same as, every product have been ordered at least 1 time.
 
 ### Exercise 3: Calculate the average time(in days) between an order is placed and when it is shipped
