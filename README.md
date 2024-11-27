@@ -30,9 +30,11 @@ Like can be seen in the image, there is no product that have never been ordered,
 ### Exercise 5: Create a report showing the total sales per product category per year (use orderdate as time)
 
 Query:
+
 ![alt text](Results/exercise5-NW-SQL-query.png)
 
 Result:
+
 ![alt text](Results/exercise5-NW-result.png)
 
 ### Exercise 6: Find the 3 suppliers who have the highest percentage of discontinued products
@@ -50,9 +52,11 @@ Result:
 ### Exercise 9: Create a query to get the count of orders per employee per year
 
 Query:
+
 ![alt text](Results/exercise9-NW-SQL-query.png)
 
 Result:
+
 ![alt text](Results/exercise9-NW-result.png)
 
 ### Exercise 10: Find the 5 products with the highest total sales revenue
